@@ -2,24 +2,24 @@
 
 ## Pagina Principal
 
-![ScreenShot](/capturas/principal.png)
+![ScreenShot](./capturas/principal.png)
 
 ## Iniciar Sesión
 
-![ScreenShot](/capturas/login.png)
+![ScreenShot](./capturas/login.png)
 
 ## Registrarse
 
-![ScreenShot](/capturas/registro.png)
+![ScreenShot](./capturas/registro.png)
 
 ## Nuevo Producto
 
-![ScreenShot](/capturas/nuevo-producto.png)
+![ScreenShot](./capturas/nuevo-producto.png)
 
 ## Populares
 
-![ScreenShot](/capturas/populares.png)
+![ScreenShot](./capturas/populares.png)
 
 ## Detalle Producto
 
-![ScreenShot](/capturas/detalle.png)
+![ScreenShot](./capturas/detalle.png)
