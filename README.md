@@ -2,7 +2,7 @@
 
 ## Pagina Principal
 
-![ScreenShot](./capturas/principal.png)
+![ScreenShot](../../capturas/principal.png)
 
 ## Iniciar Sesión
 
