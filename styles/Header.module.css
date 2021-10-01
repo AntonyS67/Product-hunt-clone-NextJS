@@ -1,0 +1,15 @@
+.header{
+    border-bottom: 2px solid var(--gris3);
+    padding: 1rem 0;
+}
+.login{
+    display: flex;
+    align-items: center;
+}
+.texto{
+    margin-right: 2rem;
+}
+.contenedorLinks{
+    display: flex;
+    align-items: center;
+}
